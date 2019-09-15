@@ -1,2 +1,2 @@
-# generator_data
+# Generator data
 Data for generator
